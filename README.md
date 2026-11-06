@@ -88,6 +88,6 @@ All device testing and security activities must be performed on personally owned
 
 👨‍💻 Author
 
-Abinesh
+Abinesh R
 
 Learning Android Development | ADB | Cybersecurity Fundamentals
